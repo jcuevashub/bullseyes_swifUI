@@ -7,12 +7,30 @@
 		<key>bullseyes_swifUI (iOS).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>bullseyes_swifUI (macOS).xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8B0957292835A6E10070DF9C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8BD08F2A282D6A5300C176A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8BD08F30282D6A5300C176A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
